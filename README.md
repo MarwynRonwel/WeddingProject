@@ -1,6 +1,22 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Wedding sample 1
+
+## Tech
+
+> [Vite](https://vitejs.dev/guide/) (React)
+
+## For Contributors
+
+Guide
+
+- Fork the repository
+
+- Open your VS Code, type in your terminal the Github CLI of the repository:
+
+  gh repo clone MarwynRonwel/Wed-Sample-1
+
+Note: Make a project folder to your device where you'll clone the repository.
 
 Currently, two official plugins are available:
 
