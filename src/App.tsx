@@ -1,13 +1,20 @@
 import "./App.css";
 
-import MainNavigation from "../components/navigations/MainNavigation";
+// import MainNavigation from "../components/navigations/MainNavigation";
 
 function App() {
   return (
     <>
       <main>
-        <section className="intro h-screen bg-no-repeat bg-cover">
-          <MainNavigation />
+        <section className="h-screen w-full relative bg-stone-100/70">
+          {/* <MainNavigation /> */}
+          <div className="text-stone-600 absolute top-[20%] left-1/2 -translate-x-1/2 text-center font-medium font-serif">
+            <p className="text-5xl leading-normal">
+              James & Mae <br /> are getting <br /> married
+            </p>
+
+            <p className="text-3xl mt-44">12.30.23</p>
+          </div>
         </section>
         <section>
           <div className="px-48 py-20">
